@@ -1,0 +1,213 @@
+@@||dresskiss.info^$first-party
+@@||connect.fogparcel.info^$first-party
+@@||dll.magiskmodule.com^$first-party
+@@||www.vanced-official.com^$first-party
+@@||apk-dym.vanced.pro^$first-party
+
+aifaceswap.io##.anime-header.text-white.pt-0.pb-20.my-0.flex-start.rounded-0
+aifaceswap.io###face-swap-playground > .anime-section-header
+aifaceswap.io##.anime-section.py-15
+aifaceswap.io###how-to-use
+aifaceswap.io###feature
+aifaceswap.io##.anime-section.py-10
+aifaceswap.io##section.anime-section.w-100.my-0:nth-of-type(6)
+aifaceswap.io###kt_app_footer
+aifaceswap.io###tab-source
+aifaceswap.io###pane-history > .text-center
+aifaceswap.io##.shareon.shareon-app
+aifaceswap.io##.app-container.container-xxl.d-flex.align-items-stretch.justify-content-between
+aifaceswap.io###kt_app_header
+aifaceswap.io##a.btn.btn-md.btn-round.btn-light.btn-active-dark.border.border-1.border-dark.rounded-pill.text-uppercase.fs-7.ms-1:nth-of-type(2)
+aifaceswap.io##.cc-1qbp0.cc-1o31k
+aifaceswap.io##.countdown
+aifaceswap.io###top-banner
+aifaceswap.io##.anime-container.d-flex.align-items-center.h-100.flex-wrap.pt-10.pt-sm-20
+aifaceswap.io##.anime-section.py-10 > .anime-container
+aifaceswap.io##.social.social-bordered
+aifaceswap.io##div.col-md-4.col-xl-4:nth-of-type(1)
+aifaceswap.io##div.col-6.col-md-4.col-xl-4.py-5.ml-auto:nth-of-type(2)
+aifaceswap.io##div.col-6.col-md-4.col-xl-4.py-5.ml-auto:nth-of-type(3)
+aifaceswap.io##.row.gap-y.pb-10
+aifaceswap.io##.text-center.mb-0.mt-2.text-gray-800
+aifaceswap.io###face-swap-playground > .anime-section-header > .fs-1.fw-bold.text-gray-700
+aifaceswap.io##.shareon.shareon-app > .facebook
+aifaceswap.io##.shareon.shareon-app > .twitter
+aifaceswap.io##.shareon.shareon-app > .telegram
+aifaceswap.io##.shareon.shareon-app > .whatsapp
+aifaceswap.io###moreButton
+aifaceswap.io##.d-flex.align-items-center.flex-grow-1.flex-xl-grow-0.me-xl-10
+aifaceswap.io##div.app-navbar-item:nth-of-type(1)
+aifaceswap.io###kt_header_user_menu_toggle
+aifaceswap.io##.app-navbar-item.d-xl-none.me-n3
+aifaceswap.io##.btn.btn-link.btn-color-primary.align-baseline
+aifaceswap.io##section.anime-section.w-100.my-0:nth-of-type(4)
+aifaceswap.io##section.anime-section.w-100.my-0:nth-of-type(3)
+aifaceswap.io##div.form-item:nth-of-type(3) > .title > .text
+aifaceswap.io##.fa.fa-3.title-count
+aifaceswap.io###playground-app-des
+aifaceswap.io###app-playground > .anime-section-header > .fs-1.fw-bold.text-gray-800
+aifaceswap.io##div.form-item:nth-of-type(1) > .title > .text
+aifaceswap.io##.fa.fa-1.title-count
+aifaceswap.io##.fa.fa-2.title-count
+aifaceswap.io##div.form-item:nth-of-type(2) > .title > .text
+aifaceswap.io##.el-button.el-button--danger
+aifaceswap.io##section.anime-section.w-100.my-0:nth-of-type(7)
+aifaceswap.io##.el-tabs__content
+aifaceswap.io###tab-history
+aifaceswap.io##.el-tabs.el-tabs--top
+aifaceswap.io##.mw-100.mh-100.text-center > p
+
+arting.ai##.promotion-banner.bg-gradient-to-r.from-purple-600.via-pink-500.to-purple-700.text-white.py-2.px-4.text-center.relative.overflow-hidden
+arting.ai##.modal-content
+arting.ai##.flex.flex-col.min-h-screen.overflow-hidden.supports-\[overflow\:clip\]\:overflow-clip.md\:pt-28.pt-20 > .grow > section.relative:nth-of-type(1) > div:nth-of-type(1) > .mx-auto.max-w-7xl.px-6.lg\:px-8.rounded-xl.py-10.md\:py-16
+arting.ai##.max-w-3xl.mx-auto.text-center.pb-8.md\:pb-10
+arting.ai##.md\:grid.md\:grid-cols-12.md\:gap-6.items-center
+arting.ai###face-swap-templates
+arting.ai##.flex.flex-col.min-h-screen.overflow-hidden.supports-\[overflow\:clip\]\:overflow-clip.md\:pt-28.pt-20 > .grow > section.relative:nth-of-type(1) > div:nth-of-type(3)
+arting.ai##.border-t.relative.border-\[\#444240\].py-5.h-full.flex.items-center.sm\:flex-row.lg\:flex-col.justify-center
+arting.ai##.hidden.md\:grid.grid-cols-2.sm\:grid-cols-2.md\:grid-cols-3.lg\:grid-cols-5.gap-8.py-8.md\:py-12 > div:nth-of-type(5)
+arting.ai##li.relative.group.pb-4:nth-of-type(5)
+arting.ai##.text-center.text-black.text-xs.mt-2
+arting.ai##.flex.flex-wrap.gap-8.justify-center.p-4
+arting.ai##.el-upload__tip.text-center
+arting.ai###open-speed-up-switch
+arting.ai##div.mt-6.relative.rounded-xl.p-6.shadow-sm.border.border-gray-100.hover\:shadow-md.transition-shadow.duration-300:nth-of-type(3) > .flex.items-center.mb-4
+arting.ai##button.bg-white.transition.duration-150.ease-in-out.text-gray-800.hover\:bg-gray-100.flex.justify-center.items-center.text-center.px-4.py-2.rounded-full.font-medium:nth-of-type(2)
+arting.ai##.max-w-screen-2xl.mx-auto.px-0.md\:px-6
+arting.ai##.login-guide-dialog
+arting.ai##.pt-8.text-\[\#746D95\].text-sm.text-center
+arting.ai##.flex.justify-center.mt-2.gap-1.a2a_kit.a2a_kit_size_32.a2a_default_style
+arting.ai##.flex.items-center.justify-center.gap-1.w-32.h-12.rounded-full.shadow-md.transition.duration-150.ease-in-out.bg-gradient-to-br.from-\[\#A259F7\].to-\[\#7C3AED\].text-white.border.border-transparent.hover\:from-\[\#7C3AED\].hover\:to-\[\#A259F7\].hover\:shadow-xl.hover\:border-\[\#7C3AED\].group
+arting.ai##.flex.justify-end.gap-1.mb-2
+arting.ai##.fixed.w-full.z-30.border-b.bg-black.border-\[rgba\(255\,255\,255\,0\.08\)\] > div.w-full.px-4.sm\:px-6
+arting.ai##.max-w-5xl.mx-auto.grid.grid-cols-1.sm\:grid-cols-1.md\:grid-cols-4.lg\:grid-cols-4.gap-2.md\:gap-5.md\:bg-white.rounded-full.px-4.py-2.shadow-light-500.mb-4
+arting.ai##.flex.mb-4.border-b
+arting.ai##.cc-1qbp0.cc-1o31k
+arting.ai##.relative.rounded-xl.p-6.shadow-sm.border.border-gray-100.hover\:shadow-md.transition-shadow.duration-300.h-full > .flex.items-center.mb-4
+arting.ai##div.mt-6.relative.rounded-xl.p-6.shadow-sm.border.border-gray-100.hover\:shadow-md.transition-shadow.duration-300:nth-of-type(2) > .flex.items-center.mb-4
+arting.ai##.mt-8.bg-gradient-to-r.from-pink-500.to-purple-500.hover\:from-pink-600.hover\:to-purple-600.text-white.px-6.py-2.rounded-full.shadow.transition-all.duration-200
+arting.ai##.w-full.flex.flex-col.gap-10 > div:nth-of-type(1) > .flex.flex-col.items-center.justify-center
+arting.ai##.bloc.text-white > .text-base.font-semibold.text-white
+arting.ai##.el-button.w-full.flex.items-center.justify-center.py-3.rounded-lg.text-sm.font-medium.transition.duration-150.ease-in-out.btnp.opacity-70.cursor-not-allowed.text-white
+arting.ai##.progress-fill
+arting.ai##.progress-track
+arting.ai##div.mt-6.relative.rounded-xl.p-6.shadow-sm.border.border-gray-100.hover\:shadow-md.transition-shadow.duration-300:nth-of-type(3) > .absolute.top-0.left-0.w-full.h-1.bg-gradient-to-r.from-\[\#6B3CEA\].to-\[\#8364E8\].rounded-t-xl
+arting.ai##div.mt-6.relative.rounded-xl.p-6.shadow-sm.border.border-gray-100.hover\:shadow-md.transition-shadow.duration-300:nth-of-type(2) > .absolute.top-0.left-0.w-full.h-1.bg-gradient-to-r.from-\[\#6B3CEA\].to-\[\#8364E8\].rounded-t-xl
+arting.ai##.relative.rounded-xl.p-6.shadow-sm.border.border-gray-100.hover\:shadow-md.transition-shadow.duration-300.h-full > .absolute.top-0.left-0.w-full.h-1.bg-gradient-to-r.from-\[\#6B3CEA\].to-\[\#8364E8\].rounded-t-xl
+arting.ai###preview-content-video > .absolute.top-0.left-0.w-full.h-1.bg-gradient-to-r.from-\[\#6B3CEA\].to-\[\#8364E8\].rounded-t-xl
+arting.ai##.relative.z-10.grid.gap-20.max-w-screen-2xl.mx-auto.px-6.sm\:px-6.lg\:px-0
+arting.ai##.w-full.px-4.sm\:px-6.z-30.border-b.bg-black.border-\[rgba\(255\,255\,255\,0\.08\)\]
+arting.ai##.text-center.text-gray-600.text-\[12px\].pt-2
+arting.ai##.cc-11f3x.cc-16kzz
+arting.ai##.w-16.h-16.rounded-lg.bg-gray-100.flex.items-center.justify-center
+
+icedrive.net###sidebarPromo
+
+movies4u.at###footer > div:nth-of-type(1)
+movies4u.at##.ct-container-narrow
+
+receive-smss.com##.col-md-12.msgg
+
+www.facebook.com##div.x1lliihq:nth-of-type(3) > div:nth-of-type(1) > span:nth-of-type(1) > div.x1lliihq:nth-of-type(1) > div:nth-of-type(1) > .x1n2onr6.xh8yej3.x1ja2u2z.xod5an3 > div.x1n2onr6.x1ja2u2z:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div.x1a2a7pz:nth-of-type(1) > div.x78zum5.xdt5ytf:nth-of-type(1) > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(1) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div:nth-of-type(1) > .html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3 > .x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld > div.x6ikm8r.x10wlt62:nth-of-type(1) > div:nth-of-type(2) > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x1wsgfga.x9otpla.xwib8y2.x1y1aw1k > .xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x10wlt62.x1n2onr6.x1ja2u2z.x1pq812k.xfk6m8.x1yqm8si.xjx87ck.xw2csxc.x7p5m3t.x9f619.xat24cr.xwib8y2.x1y1aw1k.x1rohswg.xhfbhpw
+www.facebook.com##div.x1lliihq:nth-of-type(3) > div:nth-of-type(1) > span:nth-of-type(1) > div.x1lliihq > div:nth-of-type(1) > .x1n2onr6.xh8yej3.x1ja2u2z.xod5an3 > div.x1n2onr6.x1ja2u2z:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div.x1a2a7pz:nth-of-type(1) > div.x78zum5.xdt5ytf:nth-of-type(1) > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(1) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div:nth-of-type(1) > .html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3 > .x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld > div.x6ikm8r.x10wlt62:nth-of-type(1) > .x78zum5.x1q0g3np.x1qughib.xz9dl7a.xpdmqnj.x1120s5i.x1g0dm76
+www.facebook.com##div.x1n2onr6.x1uc6qws.xyen2ro:nth-of-type(3) > div.xwib8y2.x1y1aw1k:nth-of-type(2) > div:nth-of-type(1) > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1obq294.x5a5i1n.xde0f50.x15x8krk.x1lliihq > .x6s0dn4.x1q0q8m5.x1qhh985.x18b5jzi.x10w94by.x1t7ytsu.x14e42zd.x13fuv20.x972fbf.x9f619.x78zum5.x1q0g3np.x1iyjqo2.xs83m0k.x1qughib.xat24cr.x14z9mp.x1lziwak.xdj266r.xeuugli.x18d9i69.xf159sx.xmzvs34.xexx8yu.x1n2onr6.x1ja2u2z.x1gg8mnh
+www.facebook.com##.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > .xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > .x14nfmen.x1s85apg.x5yr21d.xtijo5x.xg01cxk.x10l6tqk.x13vifvy.x1wsgiic.x19991ni.xwji4o3.x1kky2od.x1sd63oq
+www.facebook.com##div.x1n2onr6.x1uc6qws.xyen2ro:nth-of-type(3) > .x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xjkvuk6.x1cnzs8
+www.facebook.com##div.x1n2onr6.x1uc6qws.xyen2ro:nth-of-type(3) > div.xwib8y2.x1y1aw1k:nth-of-type(2)
+www.facebook.com##.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > .xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6:nth-of-type(1) > div.x1y1aw1k:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > .x1n2onr6.x1uc6qws.xyen2ro > .xwib8y2.x1y1aw1k > div:nth-of-type(1) > .x1hc1fzr > li:nth-of-type(1) > div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xmzvs34.xf159sx > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1lliihq > .html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs > .x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.x1qughib.x6s0dn4.xozqiw3.x1q0g3np
+www.facebook.com##.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.xedcshv.x1t2pt76 > .xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6:nth-of-type(1) > div.x1y1aw1k:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > .x1n2onr6.x1uc6qws.xyen2ro > .xwib8y2.x1y1aw1k > div:nth-of-type(1) > .x1hc1fzr > li:nth-of-type(1) > div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xmzvs34.xf159sx > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1lliihq > .html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs
+www.facebook.com##li.html-li.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl:nth-of-type(8) > div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xmzvs34.xf159sx > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1lliihq > .html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs
+www.facebook.com##li.html-li.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl:nth-of-type(10) > div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xmzvs34.xf159sx > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1lliihq > .html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs > .x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.x1qughib.x6s0dn4.xozqiw3.x1q0g3np
+www.facebook.com##li.html-li.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl:nth-of-type(10) > div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xmzvs34.xf159sx > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdj266r.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1lliihq > .html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs
+www.facebook.com##li.html-li.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl:nth-of-type(11) > div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xmzvs34.xf159sx > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1lliihq > .html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs
+www.facebook.com##li.html-li.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl:nth-of-type(2) > div.x1n2onr6.x1ja2u2z.x9f619.x78zum5.xdt5ytf.x2lah0s.x193iq5w:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x1iyjqo2.x2lwn1j > .x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x2lah0s.x193iq5w.xmzvs34.xf159sx > .x1i10hfl.x1qjc9v5.xjbqb8w.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x1lliihq > .html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs
+www.facebook.com##div.x1lliihq:nth-of-type(6) > div:nth-of-type(1) > span:nth-of-type(1) > div.x1lliihq > div:nth-of-type(1) > .x1n2onr6.xh8yej3.x1ja2u2z.xod5an3 > div.x1n2onr6.x1ja2u2z:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div.x1a2a7pz:nth-of-type(1) > div.x78zum5.xdt5ytf:nth-of-type(1) > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(1) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(13) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div.x6ikm8r.x10wlt62:nth-of-type(1) > div:nth-of-type(2) > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > .x9f619.x1n2onr6.x1ja2u2z.x1wsgfga.x9otpla.xwib8y2.x1y1aw1k
+www.facebook.com##div.x1lliihq:nth-of-type(6) > div:nth-of-type(1) > span:nth-of-type(1) > div.x1lliihq > div:nth-of-type(1) > .x1n2onr6.xh8yej3.x1ja2u2z.xod5an3 > div.x1n2onr6.x1ja2u2z:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div.x1a2a7pz:nth-of-type(1) > div.x78zum5.xdt5ytf:nth-of-type(1) > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(1) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(13) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div.x6ikm8r.x10wlt62:nth-of-type(1) > .x78zum5.x1q0g3np.x1qughib.xz9dl7a.xpdmqnj.x1120s5i.x1g0dm76
+www.facebook.com##div.x1lliihq:nth-of-type(6) > div:nth-of-type(1) > span:nth-of-type(1) > div.x1lliihq > div:nth-of-type(1) > .x1n2onr6.xh8yej3.x1ja2u2z.xod5an3 > div.x1n2onr6.x1ja2u2z:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div.x1a2a7pz:nth-of-type(1) > div.x78zum5.xdt5ytf:nth-of-type(1) > div.x9f619.x1n2onr6.x1ja2u2z:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(1) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div:nth-of-type(1) > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x78zum5.x1n2onr6.xh8yej3:nth-of-type(13) > div.x1n2onr6.x1ja2u2z.x1jx94hy.xw5cjc7.x1dmpuos.x1vsv7so.xau1kf4.x9f619.xh8yej3.x6ikm8r.x10wlt62.xquyuld:nth-of-type(1) > div.x6ikm8r.x10wlt62:nth-of-type(1) > .x6s0dn4.x78zum5.x1qx5ct2.xl56j7k.x1y1aw1k.xpdmqnj.x1l90r2v.x1g0dm76
+
+www.xvideos.com##.terms
+www.xvideos.com##.premium-results-line-see-more
+www.xvideos.com##.premium-results-line
+
+www.xvideos4.com##div:nth-of-type(4)
+www.xvideos4.com##.head__menu-line__main-menu__lvl1.red-ticket
+www.xvideos4.com##.head__menu-line__main-menu > li:nth-of-type(5)
+
+x.com##.css-175oi2r.r-1habvwh.r-eqz5dr.r-uaa2di.r-w7s2jr.r-u9wvl5.r-bnwqim
+
+xhamster.desi##.prePopunderLabel-15e4c.page-15e4c.desktop-15e4c
+xhamster.desi##.widthWrap-cb57f
+xhamster.desi##.container-4de46.blockListItem-3d73a
+xhamster.desi##.orient-switchers
+xhamster.desi##div.width-wrap:nth-of-type(2)
+xhamster.desi##.prePopunderLabel-15e4c.desktop-15e4c.prePopunderLabel-0c900
+xhamster.desi##.button-390e8.xh-button.gray
+xhamster.desi##.xh-button.button.gray.large.about-control
+xhamster.desi##.xh-button.button.button-c7c46.gray.large.square
+xhamster.desi##.primary-8643e.rb-new__info
+xhamster.desi##.root-64d24.color-secondary-64d24.ratingButton-a6242.ratingButtonLike-a6242.rb-new__button.rb-new__button--like.exclude-tablet.isDesktopSite-a6242
+xhamster.desi##.root-64d24.color-secondary-64d24.ratingButton-a6242.ratingButtonDislike-a6242.rb-new__button.rb-new__button--dislike.exclude-tablet.isDesktopSite-a6242
+xhamster.desi##.root-64d24.color-indigo-64d24.hasLeftIcon-64d24.button-cdbbb.buttons-2252c.diamondButton-2252c
+xhamster.desi##div.item-50dd2:nth-of-type(3) > .container-5984a.primary-5984a.big-5984a.border-radius-small-5984a.pointer-5984a.noPaddings-5984a.tag-96c3e.desktop-96c3e.paddingRight-96c3e
+xhamster.desi##div.item-50dd2:nth-of-type(5) > .container-5984a.primary-5984a.big-5984a.border-radius-small-5984a.pointer-5984a.tag-96c3e.desktop-96c3e
+xhamster.desi##div.container-64b3c:nth-of-type(2)
+xhamster.desi##div.container-64b3c.xh-dropdown:nth-of-type(7)
+xhamster.desi##div.container-64b3c:nth-of-type(8)
+xhamster.desi##div.container-64b3c:nth-of-type(9)
+xhamster.desi##div.container-64b3c:nth-of-type(10)
+xhamster.desi##div.container-64b3c:nth-of-type(11)
+xhamster.desi##.top-menu__side-group.right
+xhamster.desi##.controls-f2600.isDesktopSite-f2600
+xhamster.desi##.poster-af69e
+xhamster.desi##.imageContainer-af69e.thumb-image-container.video-thumb__image-container
+xhamster.desi##.root-48288.primary-48288.footer-af69e
+
+xhamster1.desi##.prePopunderLabel-15e4c.desktop-15e4c.prePopunderLabel-0c900
+xhamster1.desi##._8a39e902.e0f77600
+xhamster1.desi##.bottom-cb57f
+xhamster1.desi##div.column-cb57f:nth-of-type(4)
+xhamster1.desi##div.column-cb57f:nth-of-type(3)
+xhamster1.desi##.earn-cb57f
+xhamster1.desi##.columnContainer-cb57f
+xhamster1.desi##.container-4de46.blockListItem-3d73a
+xhamster1.desi##.root-6e57a
+
+xhamster3.com##.top-menu.width-wrap
+xhamster3.com##.top-menu-container
+xhamster3.com##.controls-f2600.isDesktopSite-f2600
+xhamster3.com##.widthWrap-cb57f
+xhamster3.com##div.related-container:nth-of-type(1) > .indent
+xhamster3.com##div.related-container:nth-of-type(2) > .indent
+xhamster3.com##.root-b7566.desktop-b7566.insideVideoList-b7566.thumbsScrollable-b7566
+xhamster3.com##.columnContainer-cb57f
+xhamster3.com##.earn-cb57f
+xhamster3.com##.bottom-cb57f
+xhamster3.com##.container-4de46.categoriesBottom-3de11
+xhamster3.com##li.listItem-7ae27:nth-of-type(2) > .root-48288.primary-48288.link-7ae27
+xhamster3.com##div.block-0d76d:nth-of-type(3)
+xhamster3.com##.container-f57ba
+
+xhamster44.desi##._251c029b.c93d2f29
+xhamster44.desi##.Ikc-cBHWgright-rectangle.Ikc-cBHWgright-rectangle--video.Ikc-cBHWg.Ikc-cBHWgno-ts-init > .Ikc-cBHWgcam-wgt > .item-container
+xhamster44.desi##.Ikc-cBHWgright-rectangle.Ikc-cBHWgright-rectangle--video.Ikc-cBHWg.Ikc-cBHWgno-ts-init > .Ikc-cBHWgcam-wgt
+xhamster44.desi##.Ikc-cBHWgright-rectangle.Ikc-cBHWgright-rectangle--video.Ikc-cBHWg.Ikc-cBHWgno-ts-init
+xhamster44.desi##.Ikc-cBHWgcam-thumb.Ikc-cBHWgcam-thumb--lv-red.Ikc-cBHWgcam-thumb__look-like-item.video-thumb
+xhamster44.desi##.prePopunderLabel-15e4c.page-15e4c.desktop-15e4c
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(17) > .root-56cf2.skeleton-53a78
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(17)
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(10) > .root-56cf2.skeleton-53a78
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(10)
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(24) > .root-56cf2.skeleton-53a78
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(24)
+xhamster44.desi##.widthWrap-cb57f
+xhamster44.desi##.Ikc-cBHWgcam-wgt.as-width-wrap.horizontal
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(32) > .root-56cf2.skeleton-53a78
+xhamster44.desi##div.thumbContainer-53a78.loading-53a78.thumb-list__item:nth-of-type(32)
+xhamster44.desi##div.tab-98bb0:nth-of-type(3)
+xhamster44.desi##.uvn-Vdczxplayer-hover-menu
+xhamster44.desi##.container-c8ee1
+xhamster44.desi##.caption-8643e.primary-8643e.site-4fc13
+xhamster44.desi##.caption-8643e.white-8643e.message-4fc13 > div
+xhamster44.desi##.Ikc-cBHWgbottom-widget-section.Ikc-cBHWg
+xhamster44.desi###commentBox
+xhamster44.desi##.container-24e64.loadingContainer-24e64
