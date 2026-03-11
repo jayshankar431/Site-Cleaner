@@ -1,10 +1,5 @@
 ! Title: Filter List By jayshankar431
 ! Description: My personal filter
-@@||dresskiss.info^$first-party
-@@||connect.fogparcel.info^$first-party
-@@||dll.magiskmodule.com^$first-party
-@@||www.vanced-official.com^$first-party
-@@||apk-dym.vanced.pro^$first-party
 
 aifaceswap.io##.anime-header.text-white.pt-0.pb-20.my-0.flex-start.rounded-0
 aifaceswap.io###face-swap-playground > .anime-section-header
@@ -209,7 +204,158 @@ xhamster44.desi##div.tab-98bb0:nth-of-type(3)
 xhamster44.desi##.uvn-Vdczxplayer-hover-menu
 xhamster44.desi##.container-c8ee1
 xhamster44.desi##.caption-8643e.primary-8643e.site-4fc13
+driveseed.org##center .card-header
+driveseed.org##center:nth-child(16)
+driveseed.org##center:nth-child(5)
+driveseed.org##.py-3
+
+eporner.com###copyright
+eporner.com###foot
+eporner.com##.footer-text > p
+
+tech.unblockedgames.world##.border-b
+tech.unblockedgames.world##.hover\:bg-gray-200:nth-child(2)
+tech.unblockedgames.world##.hover\:bg-gray-200:nth-child(3)
+tech.unblockedgames.world##.hover\:bg-gray-200:nth-child(4)
+tech.unblockedgames.world##.hover\:bg-gray-200:nth-child(5)
+tech.unblockedgames.world##.hover\:bg-gray-200:nth-child(6)
+tech.unblockedgames.world##.block:nth-child(7)
+tech.unblockedgames.world##.block:nth-child(8)
+tech.unblockedgames.world##.block:nth-child(9)
+tech.unblockedgames.world##.block:nth-child(10)
+tech.unblockedgames.world##.block:nth-child(11)
+tech.unblockedgames.world##.border-t
+tech.unblockedgames.world##ol
+tech.unblockedgames.world##.my-4
+
+uhdmovies.ink##.gridlove-copyright
+uhdmovies.ink###media_image-3
+uhdmovies.ink###cool_tag_cloud-5
+uhdmovies.ink###comments
+uhdmovies.ink##.col-lg-10
+uhdmovies.ink##.gridlove-author > .row
+uhdmovies.ink##a:nth-child(1) > strong
+uhdmovies.ink##p:nth-child(53)
+uhdmovies.ink##p:nth-child(54)
+uhdmovies.ink##.entry-content > p:nth-child(1)
+uhdmovies.ink##.entry-meta
+uhdmovies.ink##.entry-category
 xhamster44.desi##.caption-8643e.white-8643e.message-4fc13 > div
 xhamster44.desi##.Ikc-cBHWgbottom-widget-section.Ikc-cBHWg
 xhamster44.desi###commentBox
 xhamster44.desi##.container-24e64.loadingContainer-24e64
+eporner.com##.catheadtext
+eporner.com##.vidresultsbottom:nth-child(11)
+eporner.com###toptopbel
+eporner.com###mainphotos
+eporner.com##.blogPost:nth-child(3)
+eporner.com##.blogPost:nth-child(4) > p
+eporner.com##.blogPost:nth-child(4)
+eporner.com##.blogPost:nth-child(1) > img
+eporner.com##.blogPost:nth-child(1) > p
+eporner.com##.blogPost:nth-child(1)
+eporner.com##.blogPost:nth-child(2) > p
+eporner.com##.blogPost:nth-child(2)
+eporner.com##.toptopbel2:nth-child(9)
+eporner.com##.toptopbel2:nth-child(6)
+eporner.com##.toptopbel2:nth-child(4)
+eporner.com##.mbprofilenew:nth-child(1) img
+eporner.com##.mbprofilenew:nth-child(1)
+eporner.com##.mbprofilenew:nth-child(2) img
+eporner.com##.mbprofilenew:nth-child(2)
+eporner.com##.mbprofilenew:nth-child(3) img
+eporner.com##.mbprofilenew:nth-child(3)
+eporner.com##.mbprofilenew:nth-child(4) img
+eporner.com##.mbprofilenew:nth-child(4)
+eporner.com##.mbprofilenew:nth-child(5) img
+eporner.com##.mbprofilenew:nth-child(5)
+eporner.com##.mbprofilenew:nth-child(6) img
+eporner.com##.mbprofilenew:nth-child(6)
+eporner.com##.mbprofilenew:nth-child(7) img
+eporner.com##.mbprofilenew:nth-child(7)
+eporner.com##.footer-text > h2
+eporner.com##.hover
+eporner.com###adinhead
+eporner.com###adstripe
+eporner.com###commentdiv
+eporner.com##.relatedtext
+eporner.com##.uvmspn6
+eporner.com##.uvmspn5
+eporner.com##.uvmspn3
+eporner.com##.uvmspn2
+eporner.com###cinemaviews1
+eporner.com##.likedown
+eporner.com##.likeup
+eporner.com##.vjs-docker
+
+movies4u.sc###footer .ct-container > div:nth-child(1)
+movies4u.sc###footer .ct-container
+movies4u.sc##.wp-block-search__text-button
+movies4u.sc###sidebar
+movies4u.sc##.entry-content > p:nth-child(1)
+movies4u.sc##h4:nth-child(6)
+movies4u.sc##p:nth-child(7)
+movies4u.sc##p:nth-child(8)
+movies4u.sc##h3:nth-child(3)
+movies4u.sc##.ct-share-box
+movies4u.sc##.ct-comments-container
+movies4u.sc##.last-item > span
+movies4u.sc##.ct-breadcrumbs
+movies4u.sc##div:nth-child(1) .ct-container-fluid #categorybtns
+movies4u.sc###menu-item-131 > .ct-menu-link
+movies4u.sc##p:nth-child(10)
+movies4u.sc##h4:nth-child(11)
+
+xhamster.desi##.newNav-64b3c:nth-child(7)
+xhamster.desi##.newNav-64b3c:nth-child(8)
+xhamster.desi##.newNav-64b3c:nth-child(4)
+xhamster.desi##.newNav-64b3c:nth-child(5)
+xhamster.desi##.newNav-64b3c:nth-child(3)
+xhamster.desi##.newNav-64b3c:nth-child(2)
+xhamster.desi##.right
+xhamster.desi##.widthWrap-cb57f
+xhamster.desi##.desktop-7a121:nth-child(1)
+xhamster.desi##.desktop-7a121:nth-child(2)
+xhamster.desi##.notifications
+xhamster.desi##.controls-f2600
+xhamster.desi###commentBox
+xhamster.desi##.rb-new__info
+xhamster.desi##.rb-new__button--dislike
+xhamster.desi##.rb-new__button--like
+xhamster.desi##.about-control
+xhamster.desi##.gray.button-390e8
+
+xhamster1.desi##.newNav-64b3c:nth-child(4)
+xhamster1.desi##.newNav-64b3c:nth-child(5)
+xhamster1.desi##.newNav-64b3c:nth-child(7)
+xhamster1.desi##.newNav-64b3c:nth-child(8)
+xhamster1.desi##.newNav-64b3c:nth-child(2)
+xhamster1.desi##.newNav-64b3c:nth-child(3)
+xhamster1.desi##.link-3682d
+xhamster1.desi##.container-4de46
+xhamster1.desi##.widthWrap-cb57f
+xhamster1.desi##.controls-f2600
+xhamster1.desi###commentBox
+xhamster1.desi##.about-control
+xhamster1.desi##.gray.button-390e8
+xhamster1.desi##.rb-new__button--dislike
+xhamster1.desi##.rb-new__info
+xhamster1.desi##.rb-new__button--like
+
+xvideos.com##.red-ticket
+xvideos.com##.head__menu-line__main-menu > li:nth-child(5)
+xvideos.com##.head__menu-line__main-menu > li:nth-child(6)
+xvideos.com##li:nth-child(3) > .head__menu-line__main-menu__lvl1
+xvideos.com##.head__menu-line__main-menu > li:nth-child(3)
+xvideos.com##.account-chat-btn
+xvideos.com##.terms
+xvideos.com##.slogan
+xvideos.com##.nutaku-games
+xvideos.com##.head__menu-line__main-menu > li:nth-child(7)
+xvideos.com##.head__menu-line__main-menu > li:nth-child(8)
+xvideos.com##li:nth-child(9) > .head__menu-line__main-menu__lvl1
+xvideos.com##.head__menu-line__main-menu > li:nth-child(9)
+xvideos.com##.head__btn--join
+xvideos.com##.thread-video-comments
+xvideos.com##.botLinks
+xvideos.com##.body--video > div:nth-child(4)
