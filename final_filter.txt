@@ -1,3 +1,7 @@
+! Title: Jay's Filter List
+! Description: My personal filter
+! Homepage: (https://raw.githubusercontent.com/jayshankar431/Custom-Filter-List/refs/heads/main/final_filter.txt)
+! Expires: 1 days
 @@||dresskiss.info^$first-party
 @@||connect.fogparcel.info^$first-party
 @@||dll.magiskmodule.com^$first-party
